@@ -3,17 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package id.ac.uniska;
+package pertemuan.ke2;
 
 /**
  *
  * @author ASUS
  */
-public class Main {
-
-    
-    public static void main(String[] args){
-    System.out.println("Halo Selamat Belajar Java");
+public class JenisHewan {
+     public static void main(String[] args){
+         Hewan binatang = new Hewan("Meow", "Kucing", 4);
 }
 }
-

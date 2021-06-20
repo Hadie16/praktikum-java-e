@@ -3,17 +3,20 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package id.ac.uniska;
+package praktikumjavae;
 
 /**
  *
  * @author ASUS
  */
-public class Main {
+public class PraktikumJavaE {
 
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+       
+    }
     
-    public static void main(String[] args){
-    System.out.println("Halo Selamat Belajar Java");
 }
-}
-
